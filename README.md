@@ -15,8 +15,13 @@ A computer vision pipeline that detects and tracks multiple players in a public 
 - **Setting:** Outdoor night basketball court
 
 ---
-## 🎬 Annotated Output Video
-[▶️ Watch on Google Drive](https://drive.google.com/file/d/1lSujh12A-Cer5nL6WxdTRaW77BlZY8KC/view?usp=sharing)
+## 🎬 Videos
+## 🎬 Videos
+
+| | Link |
+|---|---|
+| 📥 Original Input Video | [Watch on Google Drive](https://drive.google.com/file/d/1yFtMd935_l3w1bTaO067sa_A93fzpw5C/view?usp=sharing) |
+| 📤 Annotated Output Video | [Watch on Google Drive](https://drive.google.com/file/d/1lSujh12A-Cer5nL6WxdTRaW77BlZY8KC/view?usp=sharing) 
 
 ## 🎯 Results Summary
 
@@ -64,10 +69,10 @@ basketball-tracking/
 ├── outputs/
 │   ├── trajectories.jpg          # Player movement trajectory visualization
 │   ├── player_count_chart.png    # Player count over time chart
-│   └── annotated_output.avi      # Full annotated output video
+│   └── annotated_output.avi(too big for repo so google drive link given)      # Full annotated output video
 │
 └── sample_input/
-    └── 19570050-uhd_3840_2160_24fps.mp4   # Original input video
+    └── 19570050-uhd_3840_2160_24fps.mp4(too big for repo so google drive link given)   # Original input video
 ```
 
 ---
