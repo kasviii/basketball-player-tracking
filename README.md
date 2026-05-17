@@ -21,8 +21,8 @@ A computer vision pipeline that detects and tracks multiple players in a public 
 | | Link |
 |---|---|
 | 📥 Original Input Video | [Watch on Google Drive](https://drive.google.com/file/d/1yFtMd935_l3w1bTaO067sa_A93fzpw5C/view?usp=sharing) |
-| 📤 Annotated Output Video | [Watch on Google Drive](https://drive.google.com/file/d/1lSujh12A-Cer5nL6WxdTRaW77BlZY8KC/view?usp=sharing) 
-
+| 📤 Annotated Output Video | [Watch on Google Drive](https://drive.google.com/file/d/1lSujh12A-Cer5nL6WxdTRaW77BlZY8KC/view?usp=sharing) |
+| 🎥 Demo Walkthrough Video | [Watch on Google Drive](https://drive.google.com/file/d/1qJyrucOvOwQnrFxMzh6GxA7IfEOAlcAd/view?usp=sharing) |
 ## 🎯 Results Summary
 
 | Metric | Value |
