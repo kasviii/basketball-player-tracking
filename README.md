@@ -15,6 +15,8 @@ A computer vision pipeline that detects and tracks multiple players in a public 
 - **Setting:** Outdoor night basketball court
 
 ---
+## 🎬 Annotated Output Video
+[▶️ Watch on Google Drive](https://drive.google.com/file/d/1lSujh12A-Cer5nL6WxdTRaW77BlZY8KC/view?usp=sharing)
 
 ## 🎯 Results Summary
 
